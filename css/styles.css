@@ -22,6 +22,7 @@ div.top-container{
 	background-color: #e8e8e8;
 	position: relative;
 	padding-top: 100px;
+	min-width: 189.6px;
 }
 div.middle-container{
 }
